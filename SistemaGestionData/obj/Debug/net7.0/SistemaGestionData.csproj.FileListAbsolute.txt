@@ -1,0 +1,15 @@
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\bin\Debug\net7.0\SistemaGestionData.deps.json
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\bin\Debug\net7.0\SistemaGestionData.dll
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\bin\Debug\net7.0\SistemaGestionData.pdb
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\bin\Debug\net7.0\SistemaGestionEntidades.dll
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\bin\Debug\net7.0\SistemaGestionEntidades.pdb
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.dll
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\refint\SistemaGestionData.dll
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\SistemaGestionData.pdb
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionData\obj\Debug\net7.0\ref\SistemaGestionData.dll

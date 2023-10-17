@@ -1,0 +1,11 @@
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\bin\Debug\net7.0\SistemaGestionEntidades.deps.json
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\bin\Debug\net7.0\SistemaGestionEntidades.dll
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\bin\Debug\net7.0\SistemaGestionEntidades.pdb
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\SistemaGestionEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\SistemaGestionEntidades.AssemblyInfoInputs.cache
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\SistemaGestionEntidades.AssemblyInfo.cs
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\SistemaGestionEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\SistemaGestionEntidades.dll
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\refint\SistemaGestionEntidades.dll
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\SistemaGestionEntidades.pdb
+C:\Users\Instalador\OneDrive\MyRepo\ProyectoAplicaciónEnCapas\SistemGestionAPI\SistemaGestionEntidades\obj\Debug\net7.0\ref\SistemaGestionEntidades.dll
